@@ -1,6 +1,6 @@
 ### Hi there, I'm Cole👋
 
-<svg [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cole-c-perry/) </svg>e
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cole-c-perry/)
 
 <p>My Name is Cole Perry and I'm a Full Stack Software Engineer. Prior to my transition into software engineering, I was an account executive in the computer software industry. During my sales career, I primarily focused on HCM, Payroll, and Financial ERP systems such as Workday and Paylocity. Wanting to build upon and improve these technologies is what led me to become a software developer.
 
