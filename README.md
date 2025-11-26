@@ -4,7 +4,7 @@
 
 <p>My Name is Cole Perry and I'm a Full Stack Software Engineer. Prior to my transition into software engineering, I was an account executive in the software industry. During my sales career, I primarily focused on HCM, Payroll, and Financial ERP systems such as Workday and Paylocity. Wanting to build upon and improve complex technologies is what led me to become a software developer.
 
-When I'm not coding, I have too many hobbies to keep up with. I love snowboarding, golfing, and hanging out with my mini Ausiedoodle Blue!</p>
+When I'm not coding, I love snowboarding, golfing, and hanging out with my mini Ausiedoodle Blue!</p>
 <!--
 **colecperry/colecperry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
